@@ -1,0 +1,13 @@
+
+1. Perlu ditambah zener + dioda pengaman polaritas input 24v terbalik___________(OKE)
+2. ⁠perlu ditambah buzzer untuk feedback ketika self diagnosis___________________
+3. ⁠Penambahan ADC untuk sensor tegangan dan arus di berbagai titik______________
+4. ⁠Regulator step down 12v to 8v menggunakan XL4016_____________________________
+5. ⁠Konektor RJ45 untuk ke Second Controller_____________________________________
+6. ⁠Sensor ketinggian: UART RX, 5v, GND__________________________________________(OKE)
+7. ⁠FET untuk aktivasi power ke second controller _______________________________
+8. ⁠Lubang konektor HKxx terlalu mepet, perlu lebih longgar______________________
+9. ⁠soket untuk gyro perlu 3: knee rest, trenden + tilting, back rest____________(OKE)
+10. Test point PA9 dan PA10 untuk Sniff ke USB serial___________________________
+11. Socket 2 Pin (GPIO dan GND) untuk Footlock__________________________________
+12. PC13 sebagai pump signal diganti karena digunakan untuk RTC time stamp______
