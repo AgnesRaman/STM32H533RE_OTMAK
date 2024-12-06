@@ -9436,7 +9436,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TerminalBlock:TerminalBlock_bornier-3_P5.08mm"
 			(at 63.5 232.41 0)
 			(effects
 				(font
@@ -11913,7 +11913,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TerminalBlock:TerminalBlock_bornier-6_P5.08mm"
 			(at 91.44 232.41 0)
 			(effects
 				(font

@@ -5753,7 +5753,7 @@
 			)
 		)
 	)
-	(hierarchical_label "UART_RXD_BLE"
+	(hierarchical_label "UART_RXD_STM"
 		(shape input)
 		(at 166.0906 167.767 0)
 		(fields_autoplaced yes)
@@ -5765,7 +5765,7 @@
 		)
 		(uuid "b096d516-ce44-4afc-937b-497df31cace5")
 	)
-	(hierarchical_label "UART_TXD_BLE"
+	(hierarchical_label "UART_TXD_STM"
 		(shape input)
 		(at 288.29 128.27 270)
 		(fields_autoplaced yes)
@@ -5867,7 +5867,7 @@
 			)
 			(project "OTMAK"
 				(path "/ba4d3907-32eb-4339-b757-c61b0e168373/be1b7685-73c2-4664-a1d8-321c44fee7dd"
-					(reference "C28")
+					(reference "C27")
 					(unit 1)
 				)
 			)
