@@ -4,6 +4,9 @@
 	(generator_version "8.0")
 	(uuid "cb76ba1e-61ca-4e5f-94b3-73d529c22c31")
 	(paper "A3")
+	(title_block
+		(date "2024-12-06")
+	)
 	(lib_symbols
 		(symbol "BlueNRG-LP-rescue:2500AT44M0400E-eec"
 			(pin_names
@@ -3685,7 +3688,7 @@
 	)
 	(wire
 		(pts
-			(xy 280.67 128.27) (xy 280.67 135.89)
+			(xy 280.67 128.27) (xy 280.67 140.97)
 		)
 		(stroke
 			(width 0)
@@ -4215,7 +4218,7 @@
 	)
 	(wire
 		(pts
-			(xy 266.7 135.89) (xy 280.67 135.89)
+			(xy 266.7 140.97) (xy 280.67 140.97)
 		)
 		(stroke
 			(width 0)
@@ -4485,7 +4488,7 @@
 	)
 	(wire
 		(pts
-			(xy 266.7 128.27) (xy 266.7 135.89)
+			(xy 266.7 128.27) (xy 266.7 140.97)
 		)
 		(stroke
 			(width 0)
@@ -5750,7 +5753,7 @@
 			)
 		)
 	)
-	(hierarchical_label "UART_RXD_STM"
+	(hierarchical_label "UART_RXD_BLE"
 		(shape input)
 		(at 166.0906 167.767 0)
 		(fields_autoplaced yes)
@@ -5762,7 +5765,7 @@
 		)
 		(uuid "b096d516-ce44-4afc-937b-497df31cace5")
 	)
-	(hierarchical_label "UART_TXD_STM"
+	(hierarchical_label "UART_TXD_BLE"
 		(shape input)
 		(at 288.29 128.27 270)
 		(fields_autoplaced yes)
@@ -6892,7 +6895,7 @@
 		(dnp no)
 		(uuid "4b45f757-eab6-44eb-b919-ee85535c8120")
 		(property "Reference" "C1"
-			(at 100.8126 133.8834 0)
+			(at 104.14 132.588 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6901,7 +6904,7 @@
 			)
 		)
 		(property "Value" "100nF"
-			(at 100.5078 137.9982 90)
+			(at 100.076 137.16 90)
 			(effects
 				(font
 					(size 1.27 1.27)
